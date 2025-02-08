@@ -5,6 +5,15 @@ body {
   font-size: 15px;
   color: white;
 }
+
+body ul li a,
+footer a {
+  color: #4caf50;
+}
+
+body p a {
+  color: #4caf50;
+}
 .container {
   width: 70%;
   margin: 0 auto;
